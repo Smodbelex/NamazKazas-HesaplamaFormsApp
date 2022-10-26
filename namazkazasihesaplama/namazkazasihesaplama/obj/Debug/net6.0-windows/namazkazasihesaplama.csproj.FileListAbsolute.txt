@@ -1,0 +1,17 @@
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\bin\Debug\net6.0-windows\namazkazasihesaplama.exe
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\bin\Debug\net6.0-windows\namazkazasihesaplama.deps.json
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\bin\Debug\net6.0-windows\namazkazasihesaplama.runtimeconfig.json
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\bin\Debug\net6.0-windows\namazkazasihesaplama.dll
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\bin\Debug\net6.0-windows\namazkazasihesaplama.pdb
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.csproj.AssemblyReference.cache
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.Form1.resources
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.csproj.GenerateResource.cache
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.AssemblyInfoInputs.cache
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.AssemblyInfo.cs
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.dll
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\refint\namazkazasihesaplama.dll
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.pdb
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\namazkazasihesaplama.genruntimeconfig.cache
+C:\Users\emir_\source\repos\namazkazasihesaplama\namazkazasihesaplama\obj\Debug\net6.0-windows\ref\namazkazasihesaplama.dll
